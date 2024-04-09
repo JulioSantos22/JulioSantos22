@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulioSantos22
 - 👀 I’m interested in progamming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Linux
 - 📫 How to reach me Julio Cesar Santos on Linkedin or @juliocsaint in instagram
 - 😄 Pronouns: He
 - ⚡ Fun fact: Anyone
